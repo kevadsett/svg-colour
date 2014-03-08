@@ -1,0 +1,44 @@
+<svg viewBox="0 0 640 480" preserveAspectRatio="xMinYMin meet" xmlns="http://www.w3.org/2000/svg">
+    <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+    <g>
+        <title>sky</title>
+        <rect class="svg-component svg-sky" fill="#ffffff" stroke="#000000" stroke-width="1" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="1" y="1" width="637" height="477" id="svg_13"/>
+    </g>
+    <g>
+        <title>sea</title>
+        <rect class="svg-component svg-sea" fill="#ffffff" stroke-width="1" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="1" y="319.999998" width="637" height="157.000002" id="svg_14" stroke="#000000"/>
+    </g>
+    <g>
+        <title>lighthouse-back</title>
+        <path class="svg-component svg-lighthouse" fill="#ffffff" stroke="#000000" stroke-width="1" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m209,345l16,-190l85,-1l12,202l-113,-11z" id="svg_2"/>
+    </g>
+    <g>
+        <title>lighthouse-stripes</title>
+        <path class="svg-component svg-lighthouse-stripes" fill="#ffffff" stroke="#000000" stroke-width="1" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m235,356c0,0 42,-31 54,-47c12,-16 28,-52 28,-42c0,10 5,94 5,94c0,0 -87,-5 -87,-5z" id="svg_3"/>
+        <path class="svg-component svg-lighthouse-stripes" fill="#ffffff" stroke-width="1" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m215.62912,265c-0.138031,1.457153 22.448456,-12.077576 51.448456,-37.077576c29,-25 44,-46 44,-46c0,0 -2,-29 -2,-29c0,0 -53,2 -53,2c0,0 -5,22 -16,28c-11,6 -18,8 -18,8c0,0 -6.310425,72.620422 -6.448456,74.077576z" id="svg_4" stroke="#000000"/>
+    </g>
+    <g>
+        <title>background-rock</title>
+        <path class="svg-component svg-background-rock" fill="#ffffff" stroke="#000000" stroke-width="1" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m353,392c0,0 31,-42 46,-43c15,-1 62,3 75,9c13,6 65,38 66,46c1,8 7,19 7,19c0,0 -46,0 -46,0c0,0 -148,-31 -148,-31z" id="svg_1"/>
+    </g>
+    <g>
+        <title>foreground-rock</title>
+        <path class="svg-component svg-foreground-rock" id="svg_7" d="m208,331c15,-5 38,2 44,4c6,2 24,-6 26,-5c2,1 54,13 74,30c20,17 65,21 89,27c24,6 86,42 91,46c5,4 19,29 19,29c0,0 -40,8 -55,3c-15,-5 -76,5 -78,5c-2,0 -55,-12 -79,-12c-24,0 -108,11 -121,11c-13,0 -79,1 -86,-1c-7,-2 -21,-12 -21,-12c0,0 28,-19 -4,-26c-32,-7 -58,-7 -58,-7c0,0 0,-25 14,-27c14,-2 55,-25 59,-27c4,-2 31,-28 42,-30c11,-2 44,-8 44,-8z" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="1" stroke="#000000" fill="#ffffff"/>
+    </g>
+    <g>
+        <title>foreground-rock-grass</title>
+        <path class="svg-component svg-foreground-rock-grass" fill="#ffffff" stroke="#000000" stroke-width="1" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m68.276825,423.256439l14.898209,-0.325653c0,0 -4.314758,-6.594299 -7.706886,-7.679779c-3.392128,-1.08548 8.141106,0.814117 10.176384,4.070557c2.035278,3.256439 0.27137,-9.090912 0.244209,-9.145172c-0.027161,-0.05426 3.826347,8.331055 3.799187,8.276794c-0.027161,-0.05426 5.183205,-6.051575 8.032593,-6.051575c2.849388,0 -2.306656,8.141113 -2.333817,8.086853c-0.027161,-0.05426 11.967468,-2.388062 11.9403,-2.442322c-0.027168,-0.05426 -8.521004,3.989136 -6.892776,6.024414c1.628235,2.035278 12.075981,0.814087 12.048813,0.759827c-0.027168,-0.05426 -9.470795,2.496613 -6.485725,3.989136c2.985069,1.492523 -11.668922,-0.678406 -17.910446,-1.763885c-6.241524,-1.085449 -19.810043,-3.799194 -19.810043,-3.799194z" id="svg_5"/>
+    </g>
+    <g>
+        <title>lighthouse-light</title>
+        <path class="svg-component svg-lighthouse-light" fill="#ffffff" stroke="#000000" stroke-width="1" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m223.001755,99.930214l0.209412,42.652687l84.991287,0.34903l-4.188507,-45.724251l-81.012192,2.722534z" id="svg_11"/>
+        <path class="svg-component svg-lighthouse-light" fill="#ffffff" stroke="#000000" stroke-width="1" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m314,100l195.099121,-98.941528l129.923828,-0.063428l-0.031738,311.054516l-311.991211,-178.049606l-20,5l-4,-38l11,-1l0,0.000015l0,0.000015l0,0.000015z" id="svg_12"/>
+    </g>
+    <g>
+        <title>lighthouse-top</title>
+        <path class="svg-component svg-lighthouse-top" fill="#ffffff" stroke="#000000" stroke-width="1" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m210.915771,153.699615c0,0 29.670334,1.098907 53.113556,0.732605c23.443207,-0.366302 65.201447,-4.029312 64.908417,-4.249069c-0.29303,-0.219757 -1.17215,-15.531158 -1.46521,-15.750916c-0.29306,-0.219757 -40.366272,6.446869 -63.443207,6.446869c-23.076935,0 -53.846161,-3.296707 -54.139221,-3.516464c-0.29306,-0.219757 1.025665,16.336975 1.025665,16.336975z" id="svg_6"/>
+        <path class="svg-component svg-lighthouse-top"  fill="#ffffff" stroke="#000000" stroke-width="1" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m216.410278,92.161156l-1.391968,7.472542l99.633698,0l-2.930389,-10.256409l-95.31134,2.783867z" id="svg_8"/>
+        <path class="svg-component svg-lighthouse-top"  fill="#ffffff" stroke="#000000" stroke-width="1" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m223.369995,92.161163c-0.000015,-0.000008 0.366287,-20.146523 0.073227,-20.366287c-0.29306,-0.219765 78.681351,-2.344337 78.681351,-1.978035c0,0.366302 2.197784,20.146515 1.904724,19.926758c-0.29306,-0.219757 -80.659302,2.417564 -80.659302,2.417564z" id="svg_9"/>
+        <path class="svg-component svg-lighthouse-top"  fill="#ffffff" stroke="#000000" stroke-width="1" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m223.736282,71.648338c0,0 36.996323,-29.304043 36.703293,-29.523804c-0.29303,-0.219761 41.318695,27.692307 41.025635,27.472542c-0.29306,-0.219765 -77.728928,2.051262 -77.728928,2.051262z" id="svg_10"/>
+    </g>
+</svg>

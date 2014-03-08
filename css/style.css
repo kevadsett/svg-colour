@@ -1,0 +1,109 @@
+html, body {
+	margin:0;
+	font-family: 'Open Sans', sans-serif;
+	background-color: #F9F8F1;
+}
+
+div {
+	-webkit-tap-highlight-color:rgba(0,0,0,0);
+}
+
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.title h1 {
+	text-align:center;
+	font-weight:300;
+}
+
+
+.svg-container svg {
+	position:absolute;
+}
+
+.colour-swatch {
+	border:solid white 3px;
+}
+
+.colour-swatch.swatch-selected {
+	border: solid black 3px;
+}
+
+.reset-button {
+    position: absolute;
+
+    z-index: 3;
+    padding: 10px;
+    border: solid 2px #787878;
+    background-color: #FFF;
+    cursor: pointer;
+}
+
+@media all and (max-width: 959px) {
+	
+	.svg-container {
+		display: inline-block;
+		position: relative;
+		width: 90%;
+		padding-bottom: 70%;
+		vertical-align: middle;
+		overflow: hidden;
+		padding-left: 5%;
+	}
+	
+	.colour-selector {
+		/* margin: 10% auto; */
+		text-align:center;
+	}
+
+	.colour-swatch {
+	    width: 16%;
+		height: 0;
+		
+	    padding-bottom: 15%;
+	    -moz-border-radius: 50%; 
+	    -webkit-border-radius: 50%; 
+	    border-radius: 50%;
+		
+	    display: inline-block;
+	    margin: 0 2.5%;
+	}
+}
+
+@media all and (min-width: 960px),
+only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape), 
+only screen and (min-device-width : 320px) and (max-device-width : 480px) and (orientation : landscape) {	
+	.svg-container {
+		display: inline-block;
+		position: relative;
+		width: 75%;
+		padding-bottom: 60%;
+		vertical-align: middle;
+		overflow: hidden;
+		padding-left: 5%;
+		float:left;
+	}
+	
+	.colour-selector {
+		float:right;
+		text-align:center;
+		width:16%;
+		margin-right: 2%;
+}
+
+	.colour-swatch {
+	    width: 70%;
+		height: 0;
+		
+	    padding-bottom: 70%;
+	    -moz-border-radius: 50%; 
+	    -webkit-border-radius: 50%; 
+	    border-radius: 50%;
+		
+	    display: block;
+	    margin: 12.5% 0;
+	}
+}

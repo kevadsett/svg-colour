@@ -1,0 +1,1 @@
+<div class="colour-swatch" style="background-color:<%= colour %>"></div>
