@@ -19,6 +19,10 @@ div {
 	font-weight:300;
 }
 
+.app-container {
+	max-width: 1024px;
+	margin: auto;
+}
 
 .svg-container svg {
 	position:absolute;
