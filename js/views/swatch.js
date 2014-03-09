@@ -17,6 +17,10 @@ SwatchView.prototype = {
 	},
 
 	render: function() {
+		if (this.$el.css('background-color') === "rgb(255, 255, 255)") {
+			this.$el.addClass('eraser');
+		}
+		// if (this.$el.css('background-color'))
 		$('.colour-selector').append(this.$el);
 		appEvents.emit('swatchRendered');
 	},

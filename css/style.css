@@ -32,6 +32,10 @@ div {
 	border:solid white 3px;
 }
 
+.colour-swatch.eraser {
+	border: solid rgb(190, 179, 179) 3px;
+}
+
 .colour-swatch.swatch-selected {
 	border: solid black 3px;
 }
@@ -59,15 +63,16 @@ div {
 	}
 	
 	.colour-selector {
-		/* margin: 10% auto; */
 		text-align:center;
-	}
+	
+		margin-bottom: 3%;
+}
 
 	.colour-swatch {
-	    width: 16%;
+	    width: 12%;
 		height: 0;
 		
-	    padding-bottom: 15%;
+	    padding-bottom: 12%;
 	    -moz-border-radius: 50%; 
 	    -webkit-border-radius: 50%; 
 	    border-radius: 50%;
@@ -99,10 +104,10 @@ only screen and (min-device-width : 320px) and (max-device-width : 480px) and (o
 }
 
 	.colour-swatch {
-	    width: 70%;
+	    width: 52%;
 		height: 0;
 		
-	    padding-bottom: 70%;
+	    padding-bottom: 52%;
 	    -moz-border-radius: 50%; 
 	    -webkit-border-radius: 50%; 
 	    border-radius: 50%;

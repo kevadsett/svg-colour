@@ -18,6 +18,10 @@
         <path class="svg-component svg-lighthouse-stripes" fill="#ffffff" stroke-width="1" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m215.62912,265c-0.138031,1.457153 22.448456,-12.077576 51.448456,-37.077576c29,-25 44,-46 44,-46c0,0 -2,-29 -2,-29c0,0 -53,2 -53,2c0,0 -5,22 -16,28c-11,6 -18,8 -18,8c0,0 -6.310425,72.620422 -6.448456,74.077576z" id="svg_4" stroke="#000000"/>
     </g>
     <g>
+        <title>door</title>
+        <path stroke="#000000" id="svg_15" d="m229.44995,334.70755c0,-0.16556 -0.33116,-22.35391 0.66235,-23.84418c0.99352,-1.49026 1.98706,-8.94156 8.94173,-9.27274c6.95464,-0.33115 9.93521,10.26627 10.1008,12.08768c0.16559,1.82144 -0.66237,24.34094 -0.66237,24.34094c0,0 -19.04251,-3.31171 -19.04251,-3.31171z" stroke-width="2" fill="#000000"/>
+    </g>
+    <g>
         <title>background-rock</title>
         <path class="svg-component svg-background-rock" fill="#ffffff" stroke="#000000" stroke-width="1" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m353,392c0,0 31,-42 46,-43c15,-1 62,3 75,9c13,6 65,38 66,46c1,8 7,19 7,19c0,0 -46,0 -46,0c0,0 -148,-31 -148,-31z" id="svg_1"/>
     </g>
